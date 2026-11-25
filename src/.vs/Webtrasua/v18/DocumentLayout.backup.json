@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\N\u1ED8P B\u00C0I\\ASPNET-DT24TTC5-TRANVANTRUNGHIEU_WEBTRASUA\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E803C619-D7EB-464C-81FB-D516FAB03A5B}|ShoeShopOnline.WebApp\\Webtrasua.csproj|d:\\n\u1ED9p b\u00E0i\\aspnet-dt24ttc5-tranvantrunghieu_webtrasua\\src\\shoeshoponline.webapp\\views\\shared\\_topheader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E803C619-D7EB-464C-81FB-D516FAB03A5B}|ShoeShopOnline.WebApp\\Webtrasua.csproj|solutionrelative:shoeshoponline.webapp\\views\\shared\\_topheader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_TopHeader.cshtml",
+              "DocumentMoniker": "D:\\N\u1ED8P B\u00C0I\\ASPNET-DT24TTC5-TRANVANTRUNGHIEU_WEBTRASUA\\src\\ShoeShopOnline.WebApp\\Views\\Shared\\_TopHeader.cshtml",
+              "RelativeDocumentMoniker": "ShoeShopOnline.WebApp\\Views\\Shared\\_TopHeader.cshtml",
+              "ToolTip": "D:\\N\u1ED8P B\u00C0I\\ASPNET-DT24TTC5-TRANVANTRUNGHIEU_WEBTRASUA\\src\\ShoeShopOnline.WebApp\\Views\\Shared\\_TopHeader.cshtml",
+              "RelativeToolTip": "ShoeShopOnline.WebApp\\Views\\Shared\\_TopHeader.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAB0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-06T15:13:27.413Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

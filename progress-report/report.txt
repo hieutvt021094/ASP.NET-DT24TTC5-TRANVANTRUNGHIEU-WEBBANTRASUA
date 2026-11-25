@@ -1,0 +1,42 @@
+## Thông tin đề tài
+
+Tên đề tài: Xây dựng Website bán trà sữa
+Sinh viên thực hiện: Trần Văn Trung Hiếu 
+
+## Từ ngày 18 đến 25/10/2026
+
+Tìm hiểu yêu cầu đồ án.
+Khảo sát các website tương tự.
+Xác định chức năng cần xây dựng.
+
+## Từ ngày 26 đến 01/11/2026
+
+Nghiên cứu ASP.NET MVC.
+Thiết kế cơ sở dữ liệu.
+Xây dựng sơ đồ Use Case.
+
+## Từ ngày 02 đến 20/11/2026
+
+Tạo dự án ASP.NET MVC.
+Thiết kế giao diện trang chủ.
+Tạo các Model và Database.
+
+Xây dựng chức năng đăng nhập.
+Xây dựng chức năng quản lý sản phẩm.
+
+## 21 đến 29/11/2026
+
+Chạy demo, kiểm tra và sửa lỗi chương trình.
+
+## 29 đến 04/12/2026
+
+Hoàn thiện giao diện.
+Kiểm thử chương trình.
+Cập nhật báo cáo đồ án.
+
+Kết quả hiện tại
+
+Hoàn thành cơ sở dữ liệu.
+Hoàn thành giao diện cơ bản.
+Hoàn thành một số chức năng chính của hệ thống.
+
